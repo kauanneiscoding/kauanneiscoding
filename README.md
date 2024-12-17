@@ -12,7 +12,6 @@
 ✨ I love creating immersive experiences and sharing my ideas with the world.
 
 - 🎨 Creating the **K-Photo** app for photocard collectors.
---
 
 ## 📸 Featured projects
 ### 💖 [K-Photo](https://github.com/kauanneiscoding/k-photo)
