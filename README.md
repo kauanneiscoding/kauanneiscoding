@@ -8,6 +8,7 @@
 
 ## 🌟 About me
 ✨ Hi! I'm a developer passionate about technology, music and games.
+
 ✨ I love creating immersive experiences and sharing my ideas with the world.
 
 - 🎨 Creating the **K-Photo** app for photocard collectors.
